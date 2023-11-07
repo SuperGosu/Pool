@@ -1,0 +1,27 @@
+{
+  "name": "com.supergosu.pool",
+  "displayName": "Gosu Pool",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Simple Gosu Pool",
+  "keywords": [
+    "reuse",
+    "Pool",
+	"Gosu"
+  ],
+  "category": "editor extensions",
+  "homepage": "https://github.com/SuperGosu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuperGosu"
+  },
+  "bugs": "https://github.com/SuperGosu",
+  "author": {
+    "name": "Super Gosu",
+    "url": "https://github.com/SuperGosu"
+  },
+  "type": "library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
