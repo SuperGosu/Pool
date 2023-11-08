@@ -131,7 +131,7 @@ public class PoolManagerEditor : Editor
 
 		if (isAddedToPool(gameObject))
 		{
-			Debug.Log("Existed pool for " + gameObject.name);
+			Debug.LogError("Existed pool for " + gameObject.name);
 		}
 		else
 		{
