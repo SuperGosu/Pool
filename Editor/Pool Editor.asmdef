@@ -1,3 +1,16 @@
 {
-	"name": "PoolEditor"
+    "name": "PoolEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3899fe4a4efe1ec4daacac16abc783e1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
