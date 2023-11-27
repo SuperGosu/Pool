@@ -33,6 +33,7 @@ namespace Gosu.Pool
 				item.name += "_pool";
 				item.transform.SetParent(holder);
 				items.Enqueue(item);
+				item.gameObject.SetActive(false);
 			}
 		}
 
