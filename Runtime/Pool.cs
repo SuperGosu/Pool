@@ -60,6 +60,7 @@ namespace Gosu.Pool
 			{
 				if (!item.gameObject.activeInHierarchy)
 				{
+					item.gameObject.SetActive(true);
 					return item.GetComponent<T>();
 				}
 			}
