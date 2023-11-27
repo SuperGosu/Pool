@@ -3,10 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 using Gosu.Pool;
-using System.Drawing;
-using Unity.VisualScripting;
-using UnityEditor.SceneManagement;
-using System.Linq.Expressions;
 
 [CustomEditor(typeof(PoolManager))]
 public class PoolManagerEditor : Editor
